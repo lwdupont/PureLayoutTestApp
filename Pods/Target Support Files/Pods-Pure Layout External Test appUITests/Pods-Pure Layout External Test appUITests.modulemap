@@ -1,0 +1,6 @@
+framework module Pods_Pure_Layout_External_Test_appUITests {
+  umbrella header "Pods-Pure Layout External Test appUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
